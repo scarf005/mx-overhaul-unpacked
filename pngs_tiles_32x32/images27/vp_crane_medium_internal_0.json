@@ -1,0 +1,1 @@
+{"id": "vp_crane_medium_internal", "fg": ["4434_vp_crane_medium_internal_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3987_vp_cargo_space_2"], "bg": ["4434_vp_crane_medium_internal_0"]}], "bg": []}

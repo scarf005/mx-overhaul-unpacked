@@ -1,0 +1,1 @@
+{"id": "vp_rockwheel", "fg": ["7000_vp_rockwheel_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3987_vp_cargo_space_2"], "bg": ["7000_vp_rockwheel_0"]}], "bg": []}

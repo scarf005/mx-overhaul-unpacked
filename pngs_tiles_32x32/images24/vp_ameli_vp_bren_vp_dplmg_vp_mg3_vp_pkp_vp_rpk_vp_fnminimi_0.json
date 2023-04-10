@@ -1,0 +1,1 @@
+{"//": "Modern Weapon 터렛", "id": ["vp_ameli", "vp_bren", "vp_dplmg", "vp_mg3", "vp_pkp", "vp_rpk", "vp_fnminimi"], "fg": ["4104_vp_m249_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3357_vp_m249_1"], "bg": []}], "bg": []}
