@@ -11,3 +11,8 @@ DDA의 [타일셋 도구](https://github.com/CleverRaven/Cataclysm-DDA/tree/mast
 [authors.md](./authors.md)를 참고해주세요
 
 타일셋 기여자분들은 [이슈](https://github.com/scarf005/mx-overhaul-unpacked/issues)나 이메일 (txzbx9m22@mozmail.com)로 연락주시면 저장소 권한을 드리겠습니다.
+
+## 라이선스
+
+- 저(@scarf005)는 타일셋에 대해 일체의 권한을 가지지 않습니다.
+- 모든 권한은 [authors.md](./authors.md)에 명시되어 있는 기여자분들이 가지고 있습니다.
